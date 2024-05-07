@@ -1,5 +1,4 @@
-import './App.css';
-import  ZeroCross from './components/main/ZeroCross'
+import ZeroCross from './components/ZeroCross'
 
 function App() {
   return (
